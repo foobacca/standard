@@ -25,6 +25,7 @@ Both structural and field changes should be anticipated between the beta and ini
 
 Let's have some tabs:
 
+<div class="tabbable">
 <ul class="nav nav-tabs">
   <li class="active"><a href="#json" data-toggle="tab">json</a></li>
   <li><a href="#csv" data-toggle="tab">csv</a></li>
@@ -36,10 +37,12 @@ Here is a json:
 
 <div class="include-json" data-src="standard/example/example.json"></div>
 </div>
+
 <div class="tab-panel" id="csv">
 And here is a CSV:
 
 <div class="include-csv" data-src="standard/example/example.csv" data-table-class="table table-striped"></div>
+</div>
 
 </div>
 </div>
