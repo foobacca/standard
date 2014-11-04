@@ -29,7 +29,7 @@ Here is a json:
 
 And here is a CSV:
 
-<div class="include-csv" data-src="standard/example/example.csv" data-table-class="table table-striped table-responsive"></div>
+<div class="include-csv" data-src="standard/example/example.csv" data-table-class="table table-striped"></div>
 
 ## Background
 
