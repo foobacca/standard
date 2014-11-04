@@ -23,9 +23,15 @@ This beta offers early adopters the chance to test the overall data model for th
 
 Both structural and field changes should be anticipated between the beta and initial release version.
 
-<div class="include-json" data-src="example/example.json"></div>
+Here is a json:
 
-## Background 
+<div class="include-json" data-src="standard/example/example.json"></div>
+
+And here is a CSV:
+
+<div class="include-csv" data-src="standard/example/example.csv"></div>
+
+## Background
 
 Countries signing up to the Open Contracting Global Principles commit to share "information related to the formation, performance, and completion of public contracts" including data on all stages of contracting, including subcontracting arrangements.
 
