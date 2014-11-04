@@ -32,13 +32,13 @@ Let's have some tabs:
 </ul>
 
 <div class="tab-content">
-<div class="tab-panel active" id="json">
+<div class="tab-pane active" id="json">
 Here is a json:
 
 <div class="include-json" data-src="standard/example/example.json"></div>
 </div>
 
-<div class="tab-panel" id="csv">
+<div class="tab-pane" id="csv">
 And here is a CSV:
 
 <div class="include-csv" data-src="standard/example/example.csv" data-table-class="table table-striped"></div>
